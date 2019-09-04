@@ -1,4 +1,4 @@
-# jsforce web browser demo based on https://jsforce.github.io/start/#web-browser
+jsforce web browser demo based on https://jsforce.github.io/start/#web-browser
 
 # How to use
 * Run `npm install`
